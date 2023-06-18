@@ -12,7 +12,7 @@ for i in range(1,20):
         print("odd",i)
 else:
     print("break used at 17") #this will not be printed as loop breaks at 17
-print("*************************************") 
+print("*************************************") #to divide the for loop part and while loop part
 #while with else (prints 10 to 1 descending numbers)
 k=10
 while k!=0:
